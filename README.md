@@ -1,0 +1,2 @@
+# 02_PLANEACION_19_Dise-o_patrones_software
+Guía 19
